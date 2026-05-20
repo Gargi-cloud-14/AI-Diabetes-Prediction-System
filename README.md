@@ -75,6 +75,9 @@ streamlit run app/app.py
 
 This project is deployed using Streamlit Community Cloud.
 
+## Live Demo
+
+🔗 https://ai-diabetes-prediction-system-fe7sbgyk5gt4gobvhkwbth.streamlit.app/
 
 ---
 
